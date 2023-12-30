@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buld-and-delivery/static/css/main.073c9b0a.css",
+    "main.js": "/buld-and-delivery/static/js/main.37f9d697.js",
+    "static/js/787.c1112931.chunk.js": "/buld-and-delivery/static/js/787.c1112931.chunk.js",
+    "index.html": "/buld-and-delivery/index.html",
+    "main.073c9b0a.css.map": "/buld-and-delivery/static/css/main.073c9b0a.css.map",
+    "main.37f9d697.js.map": "/buld-and-delivery/static/js/main.37f9d697.js.map",
+    "787.c1112931.chunk.js.map": "/buld-and-delivery/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.37f9d697.js"
+  ]
+}
